@@ -1,0 +1,14 @@
+/* src/app/contact/Contact.module.css */
+.contact {
+  text-align: center;
+  padding: 20px;
+}
+
+.contactLink {
+  color: #0070f3;
+  transition: color 0.3s;
+}
+
+.contactLink:hover {
+  color: #0056b3;
+}

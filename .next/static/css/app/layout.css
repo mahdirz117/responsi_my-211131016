@@ -1,0 +1,50 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./src/app/navigation/Navigation.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/navigation/Navigation.module.css */
+
+.Navigation_nav__2hKGU {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #333;
+  }
+  
+  .Navigation_navList__RmSM3 {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .Navigation_navItem__J0bxf a {
+    color: #fff;
+    padding: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .Navigation_navItem__J0bxf a:hover {
+    background-color: #555;
+    border-radius: 5px;
+  }
+  
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./src/app/globals.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/globals.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f9;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+

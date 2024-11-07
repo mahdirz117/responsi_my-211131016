@@ -1,0 +1,30 @@
+/* src/app/skills/Skills.module.css */
+
+.skills {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .skillImage {
+    width: 1000px;
+    height: 555px;
+    margin-bottom: 15px;
+  }
+  
+  .skillsList {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+  }
+  
+  .skillItem {
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .skillItem:hover {
+    transform: scale(1.1);
+  }
+  

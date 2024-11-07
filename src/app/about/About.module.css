@@ -1,0 +1,13 @@
+/* src/app/about/About.module.css */
+.about {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .photo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 15px;
+  }
+  
